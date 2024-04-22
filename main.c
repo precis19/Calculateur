@@ -1,3 +1,4 @@
+// c'est un programme ecrit en c d'un simple calculatrice en utilisant le Framework Gtk
 #include <stdlib.h>
 #include <gtk/gtk.h>
 #include <string.h>
